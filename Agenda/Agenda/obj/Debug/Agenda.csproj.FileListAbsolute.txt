@@ -1,0 +1,17 @@
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Agenda.dll
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Agenda.pdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Core.dll
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Platform.dll
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Xaml.dll
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Core.pdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Core.xml
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Platform.pdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Xaml.pdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Xamarin.Forms.Xaml.xml
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.dll
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.pdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.PaginaContacto.xaml.g.cs
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.HomePage.xaml.g.cs
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\obj\Debug\Agenda.dll.mdb
+d:\Users\fmunera\Documents\Visual Studio 2015\Projects\Agenda\Agenda\Agenda\bin\Debug\Agenda.dll.mdb
